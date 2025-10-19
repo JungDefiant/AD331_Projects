@@ -2,8 +2,7 @@
 Written by Bade Habib
 
 ### Description Of Dataset
-Dataset used is data of housing built in King County, last updated between 2014-2015.
-The data describes
+Dataset used is data of housing built in King County, last updated between 2014-2015. The data describes various features of housing units, including year built or renovated, number of bedrooms/bathrooms, square footage, etc.
 
 The **target variable** is the **price** of housing, which is compared to the following variables.
 - Age of the house (calculated as a feature).
@@ -22,8 +21,8 @@ The following steps were completed as a part of data cleaning and feature engine
 4. Removed every row in the data set matching the indices of the outliers.
 
 ## Feature Engineering
-Calculated age by performing a lambda function, which subtracts the *year built* variable by the current year (2025).
+Calculated age by performing a lambda function, which subtracts the *year built* or the *year renovated* feature (whichever is higher) by the current year (2025).
 
 ### Final Evaluation Metrics
-**MSE:** 156954.15063322696
-**R2:** 0.5475104477421255
+- **MSE:** 156954.15063322696
+- **R2:** 0.5475104477421255
