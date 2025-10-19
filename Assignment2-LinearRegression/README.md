@@ -24,5 +24,5 @@ The following steps were completed as a part of data cleaning and feature engine
 Calculated age by performing a lambda function, which subtracts the *year built* or the *year renovated* feature (whichever is higher) by the current year (2025).
 
 ### Final Evaluation Metrics
-- **MSE:** 156954.15063322696
-- **R2:** 0.5475104477421255
+- **MSE:** 157602.20522885874
+- **R2:** 0.5286880819564755
