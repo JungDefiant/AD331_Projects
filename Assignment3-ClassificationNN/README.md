@@ -2,10 +2,12 @@
 Written by Bade Habib
 
 ### Framework Used
-PyTorch
+Tensorflow
 
 ### Model Architecture
-X
+- **Number Of Layers:** 3 (1 Input, 1 Hidden, 1 Output)
+- **Neurons:** 784
+- **Activation Functions:** Linear, ReLU
 
 ### Test Set Accuracy
-X
+- **Final Accuracy:** 97.72%
