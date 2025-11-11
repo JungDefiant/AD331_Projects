@@ -1,6 +1,9 @@
 ## Assignment: Generative AI with Pre-trained LLMs
 Written by Bade Habib
 
+### Model Used
+distilgpt2 (based on GPT2)
+
 ### Chosen Task
 Text Generation
 
