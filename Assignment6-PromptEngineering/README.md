@@ -1,9 +1,8 @@
 ## Assignment: Prompt Engineering for Performance Improvement
 Written by Bade Habib
 
-### LLM & Embedding
-- **LLM:** distilgpt2 (based on GPT2)
-- **Embedding:** all-MiniLM-L6-v2
+### LLM
+distilgpt2 (based on GPT2)
 
 ### Qualitative Analysis
 |Prompt|Technique|Text|Score|
