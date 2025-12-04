@@ -1,4 +1,5 @@
-## Milestone 3: MVP
+## Assignment: Fine-Tuning a Pre-trained LLM
+Written by Bade Habib
 
 ### Model & Dataset
 **Model:** bert-base-cased
